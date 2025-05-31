@@ -30,8 +30,11 @@ Antes de qualquer contribuição (pull request ou proposta de ferramenta), envie
 
 ## 📂 Estrutura recomendada de pastas
 /tools/
+
 └── dns-scan/
+
 ├── dns_scan.py
+
 └── README.md
 
 
