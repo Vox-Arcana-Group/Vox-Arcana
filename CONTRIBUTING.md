@@ -4,7 +4,7 @@ Obrigado por querer colaborar com o projeto **Vox Arcana**! Nossa comunidade val
 
 ## ⚠️ Pré-requisito obrigatório
 
-Antes de qualquer contribuição (pull request ou proposta de ferramenta), envie um e-mail para **teu-email@example.com** com:
+Antes de qualquer contribuição (pull request ou proposta de ferramenta), envie um e-mail para **voxxarcana@mrotzis.com** com:
 
 - Seu nome (ou nickname)
 - Uma breve descrição da ferramenta ou melhoria que deseja contribuir
@@ -29,4 +29,20 @@ Antes de qualquer contribuição (pull request ou proposta de ferramenta), envie
 ---
 
 ## 📂 Estrutura recomendada de pastas
+/tools/
+└── dns-scan/
+├── dns_scan.py
+└── README.md
+
+
+---
+
+## 🤝 Precisando de ajuda?
+
+Entre no nosso canal IRC: `#voxarcana` em Libera.Chat  
+Ou envie um e-mail diretamente: **teu-email@example.com**
+
+---
+
+> 🧭 *Vox Arcana – Conhecimento é liberdade.*
 
