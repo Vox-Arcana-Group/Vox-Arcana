@@ -40,12 +40,16 @@ Antes de qualquer contribuição (pull request ou proposta de ferramenta), envie
 
 ---
 
+
 ## 🤝 Precisando de ajuda?
 
 Entre no nosso canal IRC: `#voxarcana` em Libera.Chat  
-Ou envie um e-mail diretamente: **teu-email@example.com**
+Ou envie um e-mail diretamente: **voxxarcana@mrotzis.com**
 
 ---
 
 > 🧭 *Vox Arcana – Conhecimento é liberdade.*
+**
+
+
 
