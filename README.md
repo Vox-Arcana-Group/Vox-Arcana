@@ -1,4 +1,4 @@
-# 🧠 Vox Arcana – Knowledge is Freedom
+# 🧠 Vox Arcana 
 
 **Vox Arcana** é uma comunidade hacker open-source voltada para o desenvolvimento, estudo e compartilhamento de ferramentas de hacking ético.
 
